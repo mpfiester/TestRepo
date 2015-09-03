@@ -39,4 +39,4 @@ This is [an example](http://www.slate.com/ "Title") inline link.
 
 ## More Stuff
 
-Added some more Stuff Change 2
+Added some more Stuff Change 3
